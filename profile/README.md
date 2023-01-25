@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">x2 agency</h1>
+  
+  
+
+Welcome to x2's GitHub!
+
+x2 is an digital agency. We will help you create better apps and website. For more information, visit: <b>https://x2.agency</b>
+</div>
 
 <!--
 
