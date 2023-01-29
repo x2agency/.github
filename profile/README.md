@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 align="center">x2 agency</h1>
+  <h1 align="center">x² agency</h1>
   
   
 
-Welcome to x2's GitHub!
+Welcome to x²'s GitHub!
 
 x2 is an digital agency. We will help you create better mobile- and web-apps. For more information, visit: <b>https://x2.agency</b>
 </div>
